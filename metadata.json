@@ -1,0 +1,8 @@
+{
+  "name": "Remix CargaFret - Gestão de Cargas e Fretamentos",
+  "description": "Sistema completo de gestão de cargas, emissão de Ordem de Carregamento (O.C.), controle de frota, cálculo de diárias e acompanhamento logístico em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
